@@ -1,6 +1,5 @@
 # DIO - Trilha Java Básico
-www.dio.me
-
+ 
 #### Autores
 - [Dênis da Silva Santos](https://github.com/denezero)
 
@@ -19,10 +18,10 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 <br>
 
-![IPhone](./img/iphoneAstah.png)
+![IPhone](./iphoneAstah.png)
 
 <br>
 
-![Relação UML](./img/iphoneUML.png)
+![Relação UML](./iphoneUML.png)
 
  
